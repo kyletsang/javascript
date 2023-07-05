@@ -9,11 +9,3 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 ### Features
 
 * add prettier config ([#2](https://github.com/kyletsang/javascript/issues/2)) ([5cbca2f](https://github.com/kyletsang/javascript/commit/5cbca2f3bb26e679694fcbe080ad875e00a9d24f))
-
-
-
-
-
-## 1.0.1 (2023-07-05)
-
-**Note:** Version bump only for package @kyletsang/eslint-config
