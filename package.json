@@ -1,0 +1,10 @@
+{
+  "name": "@kyletsang/javascript",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "lerna": "^7.1.1"
+  }
+}

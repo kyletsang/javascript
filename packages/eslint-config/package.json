@@ -1,0 +1,14 @@
+{
+  "name": "@kyletsang/eslint-config",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Kyle Tsang",
+  "dependencies": {
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.27.5"
+  },
+  "peerDependencies": {
+    "eslint": "^8.44.0"
+  }
+}
