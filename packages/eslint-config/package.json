@@ -4,6 +4,9 @@
   "description": "",
   "main": "index.js",
   "author": "Kyle Tsang",
+  "publishConfig": {
+    "access": "public"
+  },
   "dependencies": {
     "eslint-config-airbnb-base": "^15.0.0",
     "eslint-plugin-import": "^2.27.5"
