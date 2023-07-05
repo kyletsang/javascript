@@ -1,0 +1,13 @@
+{
+  "name": "@kyletsang/prettier-config",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Kyle Tsang",
+  "publishConfig": {
+    "access": "public"
+  },
+  "peerDependencies": {
+    "prettier": "^2.8.8"
+  }
+}
