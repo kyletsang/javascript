@@ -8,6 +8,6 @@
     "access": "public"
   },
   "peerDependencies": {
-    "prettier": "^2.8.8"
+    "prettier": "^2.8.8 || ^3.0.2"
   }
 }
