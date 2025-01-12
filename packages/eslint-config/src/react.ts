@@ -1,4 +1,5 @@
 import globals from 'globals';
+import pluginPrettierRecommended from 'eslint-plugin-prettier/recommended';
 import pluginReact from 'eslint-plugin-react';
 // @ts-expect-error Missing types
 import pluginReactHooks from 'eslint-plugin-react-hooks';
@@ -45,5 +46,9 @@ export default [
     name: 'React Testing Library',
     files: ['**/*.{test,spec}.{ts,tsx,mts}'],
     ...pluginTestingLibrary.configs['flat/react'],
+  },
+  {
+    name: 'Prettier',
+    ...pluginPrettierRecommended,
   },
 ];
